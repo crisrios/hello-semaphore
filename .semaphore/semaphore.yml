@@ -22,4 +22,4 @@ blocks:
             - echo 'running unit tests'
         - name: Integration tests
           commands:
-            - '''running integration tests'''
+            - echo 'running integration tests'
